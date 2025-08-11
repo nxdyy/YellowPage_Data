@@ -13,6 +13,7 @@ exTHmUI 黄页数据
 ## Notes
   - `convert_data.py`用于从源vCards项目文件格式化`yaml`文件为json compatibility文件。
   - 支持原vCards项目构建`.vcf`文件，您需要安装`Node.js LTS v16+`后在项目中执行`npm run gulp buildVcard`。
+  - `make.py`会将`yellowpage_data`目录下的所有yaml文件转换为json并且合并到`yellowpage_data.json`
 
 ## 请求收录
 
