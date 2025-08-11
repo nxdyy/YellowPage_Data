@@ -5,6 +5,7 @@ exTHmUI 黄页数据
 
 ## 项目说明
  这个项目来自于`exTHmUI/YellowPage_Data`，因为原服务已经不可用，说明和教程请访问 [https://exypd.nxdyy.cn](https://exypd.nxdyy.cn)
+ 由于黄页数据地址写死在程序中，请反编译替换地址 [视频教程](https://www.bilibili.com/video/BV1XhbMzNEwj)
  
 ## 环境依赖
  1. `Node.js LTS v16+`
