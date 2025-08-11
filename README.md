@@ -3,6 +3,9 @@ exTHmUI 黄页数据
 部分数据来源于 https://github.com/metowolf/vCards/
 其他信息，请参阅[vCards README](README_vCard.md)
 
+## 项目说明
+ 这个项目来自于`exTHmUI/YellowPage_Data`，因为原服务已经不可用，说明和教程请访问 [https://exypd.nxdyy.cn](https://exypd.nxdyy.cn)
+ 
 ## 环境依赖
  1. `Node.js LTS v16+`
  2. `Python 3.8+`
